@@ -1,0 +1,431 @@
+﻿  Dialog_Detail.cpp
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(39,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(283): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(40,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(288): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(284): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(285): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(286): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(287): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(289): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(282): message : 参见“RT_MANIFEST”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1652,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11073): message : 参见“IDI_APPLICATION”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1655,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11074): message : 参见“IDI_HAND”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1658,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11075): message : 参见“IDI_QUESTION”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1661,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11076): message : 参见“IDI_EXCLAMATION”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1664,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11077): message : 参见“IDI_ASTERISK”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1666,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11079): message : 参见“IDI_WINLOGO”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1668,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11082): message : 参见“IDI_SHIELD”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(40,123): warning C4311: “类型强制转换”: 从“PIMAGE_RESOURCE_DIRECTORY”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(40,123): warning C4302: “类型强制转换”: 从“PIMAGE_RESOURCE_DIRECTORY”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(44,107): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_RESOURCE_DIR_STRING_U”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(47,55): error C2664: “size_t wcslen(const wchar_t *)”: 无法将参数 1 从“LPSTR”转换为“const wchar_t *”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(47,52): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_wstring.h(132,25): message : 参见“wcslen”的声明
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(71,104): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_RESOURCE_DIRECTORY”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(78,103): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_RESOURCE_DATA_ENTRY”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(115,57): warning C4311: “类型强制转换”: 从“PVOID”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(115,57): warning C4302: “类型强制转换”: 从“PVOID”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(115,124): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PWORD”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(116,56): warning C4311: “类型强制转换”: 从“PVOID”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(116,56): warning C4302: “类型强制转换”: 从“PVOID”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(116,116): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PDWORD”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(117,60): warning C4311: “类型强制转换”: 从“PVOID”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(117,60): warning C4302: “类型强制转换”: 从“PVOID”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(117,124): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PDWORD”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(133,55): warning C4311: “类型强制转换”: 从“PVOID”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(133,55): warning C4302: “类型强制转换”: 从“PVOID”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(133,68): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PCHAR”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(154,43): error C2664: “BOOL SetWindowTextW(HWND,LPCWSTR)”: 无法将参数 2 从“LPCSTR”转换为“LPCWSTR”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(154,37): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(8910,1): message : 参见“SetWindowTextW”的声明
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(174,56): warning C4311: “类型强制转换”: 从“PVOID”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(174,56): warning C4302: “类型强制转换”: 从“PVOID”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(174,66): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PCHAR”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(190,76): warning C4311: “类型强制转换”: 从“PVOID”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(190,76): warning C4302: “类型强制转换”: 从“PVOID”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(190,85): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_THUNK_DATA”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(203,41): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(205,103): warning C4311: “类型强制转换”: 从“PVOID”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(205,103): warning C4302: “类型强制转换”: 从“PVOID”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(205,123): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_IMPORT_BY_NAME”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(226,76): warning C4311: “类型强制转换”: 从“PVOID”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(226,76): warning C4302: “类型强制转换”: 从“PVOID”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(226,85): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_THUNK_DATA”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(247,42): error C2664: “BOOL SetWindowTextW(HWND,LPCWSTR)”: 无法将参数 2 从“LPSTR”转换为“LPCWSTR”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(247,36): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(8910,1): message : 参见“SetWindowTextW”的声明
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(268,55): warning C4311: “类型强制转换”: 从“PIMAGE_RESOURCE_DIRECTORY”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(268,55): warning C4302: “类型强制转换”: 从“PIMAGE_RESOURCE_DIRECTORY”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(275,42): error C2664: “BOOL SetWindowTextW(HWND,LPCWSTR)”: 无法将参数 2 从“LPSTR”转换为“LPCWSTR”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(275,36): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(8910,1): message : 参见“SetWindowTextW”的声明
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(308,63): warning C4311: “类型强制转换”: 从“PIMAGE_BASE_RELOCATION”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(308,63): warning C4302: “类型强制转换”: 从“PIMAGE_BASE_RELOCATION”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(321,69): warning C4311: “类型强制转换”: 从“PIMAGE_BASE_RELOCATION”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(321,69): warning C4302: “类型强制转换”: 从“PIMAGE_BASE_RELOCATION”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(321,97): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_BASE_RELOCATION”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(327,42): error C2664: “BOOL SetWindowTextW(HWND,LPCWSTR)”: 无法将参数 2 从“LPSTR”转换为“LPCWSTR”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(327,36): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(8910,1): message : 参见“SetWindowTextW”的声明
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(345,49): warning C4311: “类型强制转换”: 从“PIMAGE_BOUND_IMPORT_DESCRIPTOR”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(345,49): warning C4302: “类型强制转换”: 从“PIMAGE_BOUND_IMPORT_DESCRIPTOR”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(355,81): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“PCHAR”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(371,76): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“PCHAR”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(389,42): error C2664: “BOOL SetWindowTextW(HWND,LPCWSTR)”: 无法将参数 2 从“LPSTR”转换为“LPCWSTR”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(389,36): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(8910,1): message : 参见“SetWindowTextW”的声明
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(409,49): warning C4311: “类型强制转换”: 从“PVOID”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(409,49): warning C4302: “类型强制转换”: 从“PVOID”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(409,58): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PDWORD”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(418,42): error C2664: “BOOL SetWindowTextW(HWND,LPCWSTR)”: 无法将参数 2 从“LPSTR”转换为“LPCWSTR”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Detail.cpp(418,36): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(8910,1): message : 参见“SetWindowTextW”的声明
+  Dialog_Directory.cpp
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(39,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(283): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(40,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(288): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(284): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(285): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(286): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(287): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(289): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(282): message : 参见“RT_MANIFEST”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1652,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11073): message : 参见“IDI_APPLICATION”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1655,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11074): message : 参见“IDI_HAND”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1658,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11075): message : 参见“IDI_QUESTION”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1661,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11076): message : 参见“IDI_EXCLAMATION”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1664,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11077): message : 参见“IDI_ASTERISK”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1666,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11079): message : 参见“IDI_WINLOGO”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1668,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11082): message : 参见“IDI_SHIELD”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Directory.cpp(11,84): warning C4311: “类型强制转换”: 从“LPWSTR”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Directory.cpp(11,84): warning C4302: “类型强制转换”: 从“LPWSTR”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Directory.cpp(61,10): warning C4101: “hwndEditSize”: 未引用的局部变量
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Directory.cpp(60,10): warning C4101: “hwndEditRva”: 未引用的局部变量
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Directory.cpp(104,13): error C2664: “INT_PTR DialogBoxParamW(HINSTANCE,LPCWSTR,HWND,DLGPROC,LPARAM)”: 无法将参数 4 从“BOOL (__cdecl *)(HWND,UINT,WPARAM,LPARAM)”转换为“DLGPROC”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Directory.cpp(104,13): message : 在匹配目标类型的范围内没有具有该名称的函数
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(5066,1): message : 参见“DialogBoxParamW”的声明
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Directory.cpp(109,13): error C2664: “INT_PTR DialogBoxParamW(HINSTANCE,LPCWSTR,HWND,DLGPROC,LPARAM)”: 无法将参数 4 从“BOOL (__cdecl *)(HWND,UINT,WPARAM,LPARAM)”转换为“DLGPROC”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Directory.cpp(109,13): message : 在匹配目标类型的范围内没有具有该名称的函数
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(5066,1): message : 参见“DialogBoxParamW”的声明
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Directory.cpp(114,13): error C2664: “INT_PTR DialogBoxParamW(HINSTANCE,LPCWSTR,HWND,DLGPROC,LPARAM)”: 无法将参数 4 从“BOOL (__cdecl *)(HWND,UINT,WPARAM,LPARAM)”转换为“DLGPROC”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Directory.cpp(114,13): message : 在匹配目标类型的范围内没有具有该名称的函数
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(5066,1): message : 参见“DialogBoxParamW”的声明
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Directory.cpp(119,13): error C2664: “INT_PTR DialogBoxParamW(HINSTANCE,LPCWSTR,HWND,DLGPROC,LPARAM)”: 无法将参数 4 从“BOOL (__cdecl *)(HWND,UINT,WPARAM,LPARAM)”转换为“DLGPROC”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Directory.cpp(119,13): message : 在匹配目标类型的范围内没有具有该名称的函数
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(5066,1): message : 参见“DialogBoxParamW”的声明
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Directory.cpp(124,13): error C2664: “INT_PTR DialogBoxParamW(HINSTANCE,LPCWSTR,HWND,DLGPROC,LPARAM)”: 无法将参数 4 从“BOOL (__cdecl *)(HWND,UINT,WPARAM,LPARAM)”转换为“DLGPROC”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Directory.cpp(124,13): message : 在匹配目标类型的范围内没有具有该名称的函数
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(5066,1): message : 参见“DialogBoxParamW”的声明
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Directory.cpp(129,13): error C2664: “INT_PTR DialogBoxParamW(HINSTANCE,LPCWSTR,HWND,DLGPROC,LPARAM)”: 无法将参数 4 从“BOOL (__cdecl *)(HWND,UINT,WPARAM,LPARAM)”转换为“DLGPROC”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Directory.cpp(129,13): message : 在匹配目标类型的范围内没有具有该名称的函数
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(5066,1): message : 参见“DialogBoxParamW”的声明
+  Dialog_Main.cpp
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(39,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(283): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(40,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(288): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(284): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(285): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(286): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(287): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(289): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(282): message : 参见“RT_MANIFEST”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1652,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11073): message : 参见“IDI_APPLICATION”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1655,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11074): message : 参见“IDI_HAND”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1658,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11075): message : 参见“IDI_QUESTION”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1661,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11076): message : 参见“IDI_EXCLAMATION”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1664,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11077): message : 参见“IDI_ASTERISK”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1666,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11079): message : 参见“IDI_WINLOGO”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1668,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11082): message : 参见“IDI_SHIELD”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(33,5): error C2664: “INT_PTR DialogBoxParamW(HINSTANCE,LPCWSTR,HWND,DLGPROC,LPARAM)”: 无法将参数 4 从“BOOL (__cdecl *)(HWND,UINT,WPARAM,LPARAM)”转换为“DLGPROC”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(33,5): message : 在匹配目标类型的范围内没有具有该名称的函数
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(5066,1): message : 参见“DialogBoxParamW”的声明
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(87,13): error C2664: “INT_PTR DialogBoxParamW(HINSTANCE,LPCWSTR,HWND,DLGPROC,LPARAM)”: 无法将参数 4 从“BOOL (__cdecl *)(HWND,UINT,WPARAM,LPARAM)”转换为“DLGPROC”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(87,13): message : 在匹配目标类型的范围内没有具有该名称的函数
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(5066,1): message : 参见“DialogBoxParamW”的声明
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(120,39): error C2440: “=”: 无法从“LPSTR”转换为“LPWSTR”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(120,25): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(124,62): warning C4311: “类型强制转换”: 从“LVCOLUMNW *”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(124,62): warning C4302: “类型强制转换”: 从“LVCOLUMNW *”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(127,36): error C2440: “=”: 无法从“LPSTR”转换为“LPWSTR”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(127,25): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(131,62): warning C4311: “类型强制转换”: 从“LVCOLUMNW *”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(131,62): warning C4302: “类型强制转换”: 从“LVCOLUMNW *”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(134,45): error C2440: “=”: 无法从“LPSTR”转换为“LPWSTR”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(134,25): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(139,45): error C2440: “=”: 无法从“LPSTR”转换为“LPWSTR”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(139,25): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(165,45): error C2440: “=”: 无法从“LPSTR”转换为“LPWSTR”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(165,25): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(171,45): error C2440: “=”: 无法从“LPSTR”转换为“LPWSTR”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(171,25): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(210,36): error C2065: “Lpe32”: 未声明的标识符
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(216,62): error C2664: “errno_t _itoa_s(int,char *,size_t,int)”: 无法将参数 2 从“LPWSTR”转换为“char *”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(216,46): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\stdlib.h(626,26): message : 参见“_itoa_s”的声明
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(258,26): warning C4244: “=”: 从“LRESULT”转换到“DWORD”，可能丢失数据
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(268,72): warning C4311: “类型强制转换”: 从“LVITEMW *”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(268,72): warning C4302: “类型强制转换”: 从“LVITEMW *”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(270,29): error C2664: “int atoi(const char *)”: 无法将参数 1 从“TCHAR [32]”转换为“const char *”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(270,24): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\stdlib.h(451,62): message : 参见“atoi”的声明
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(287,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(332,8): warning C4311: “类型强制转换”: 从“DWORD *”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(332,8): warning C4302: “类型强制转换”: 从“DWORD *”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(383,19): error C2065: “LstOpenFile”: 未声明的标识符
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(383,66): error C2660: “MessageBoxW”: 函数不接受 3 个参数
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(9161,1): message : 参见“MessageBoxW”的声明
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(387,5): error C2664: “INT_PTR DialogBoxParamW(HINSTANCE,LPCWSTR,HWND,DLGPROC,LPARAM)”: 无法将参数 4 从“BOOL (__cdecl *)(HWND,UINT,WPARAM,LPARAM)”转换为“DLGPROC”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Main.cpp(387,5): message : 在匹配目标类型的范围内没有具有该名称的函数
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(5066,1): message : 参见“DialogBoxParamW”的声明
+  Dialog_PE.cpp
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(39,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(283): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(40,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(288): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(284): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(285): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(286): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(287): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(289): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(282): message : 参见“RT_MANIFEST”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1652,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11073): message : 参见“IDI_APPLICATION”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1655,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11074): message : 参见“IDI_HAND”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1658,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11075): message : 参见“IDI_QUESTION”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1661,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11076): message : 参见“IDI_EXCLAMATION”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1664,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11077): message : 参见“IDI_ASTERISK”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1666,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11079): message : 参见“IDI_WINLOGO”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1668,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11082): message : 参见“IDI_SHIELD”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_PE.cpp(10,77): warning C4311: “类型强制转换”: 从“LPWSTR”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_PE.cpp(10,77): warning C4302: “类型强制转换”: 从“LPWSTR”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_PE.cpp(21,84): error C2440: “初始化”: 无法从“PIMAGE_OPTIONAL_HEADER”转换为“PIMAGE_OPTIONAL_HEADER32”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_PE.cpp(21,50): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_PE.cpp(134,13): error C2664: “INT_PTR DialogBoxParamW(HINSTANCE,LPCWSTR,HWND,DLGPROC,LPARAM)”: 无法将参数 4 从“BOOL (__cdecl *)(HWND,UINT,WPARAM,LPARAM)”转换为“DLGPROC”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_PE.cpp(134,13): message : 在匹配目标类型的范围内没有具有该名称的函数
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(5066,1): message : 参见“DialogBoxParamW”的声明
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_PE.cpp(137,13): error C2664: “INT_PTR DialogBoxParamW(HINSTANCE,LPCWSTR,HWND,DLGPROC,LPARAM)”: 无法将参数 4 从“BOOL (__cdecl *)(HWND,UINT,WPARAM,LPARAM)”转换为“DLGPROC”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_PE.cpp(137,13): message : 在匹配目标类型的范围内没有具有该名称的函数
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(5066,1): message : 参见“DialogBoxParamW”的声明
+  Dialog_Section.cpp
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(39,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(283): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(40,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(288): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(284): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(285): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(286): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(287): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(289): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(282): message : 参见“RT_MANIFEST”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1652,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11073): message : 参见“IDI_APPLICATION”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1655,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11074): message : 参见“IDI_HAND”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1658,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11075): message : 参见“IDI_QUESTION”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1661,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11076): message : 参见“IDI_EXCLAMATION”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1664,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11077): message : 参见“IDI_ASTERISK”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1666,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11079): message : 参见“IDI_WINLOGO”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Resource.h(1668,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11082): message : 参见“IDI_SHIELD”的前一个定义
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Section.cpp(18,39): error C2440: “=”: 无法从“LPSTR”转换为“LPWSTR”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Section.cpp(18,25): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Section.cpp(23,45): error C2440: “=”: 无法从“LPSTR”转换为“LPWSTR”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Section.cpp(23,25): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Section.cpp(28,45): error C2440: “=”: 无法从“LPSTR”转换为“LPWSTR”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Section.cpp(28,25): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Section.cpp(33,45): error C2440: “=”: 无法从“LPSTR”转换为“LPWSTR”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Section.cpp(33,25): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Section.cpp(38,45): error C2440: “=”: 无法从“LPSTR”转换为“LPWSTR”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Section.cpp(38,25): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Section.cpp(43,45): error C2440: “=”: 无法从“LPSTR”转换为“LPWSTR”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Section.cpp(43,25): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Section.cpp(49,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Section.cpp(70,36): error C2440: “=”: 无法从“char [16]”转换为“LPWSTR”
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Section.cpp(70,29): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+D:\sources\repos\PETOOL\PE-\PETOOL\Dialog_Section.cpp(129,9): warning C4065: switch 语句包含“default”但是未包含“case”标签
+  PETOOL.cpp
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(13,48): warning C4311: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(13,48): warning C4302: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(13,75): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_FILE_HEADER”
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(20,53): warning C4311: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(20,53): warning C4302: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(35,56): warning C4311: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(35,56): warning C4302: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(50,77): error C2440: “初始化”: 无法从“PIMAGE_OPTIONAL_HEADER”转换为“PIMAGE_OPTIONAL_HEADER32”
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(50,44): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(69,56): warning C4311: “类型强制转换”: 从“const PVOID”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(69,56): warning C4302: “类型强制转换”: 从“const PVOID”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(69,79): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_IMPORT_DESCRIPTOR”
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(85,62): warning C4311: “类型强制转换”: 从“const PVOID”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(85,62): warning C4302: “类型强制转换”: 从“const PVOID”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(85,79): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_BOUND_IMPORT_DESCRIPTOR”
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(125,55): warning C4311: “类型强制转换”: 从“const PVOID”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(125,55): warning C4302: “类型强制转换”: 从“const PVOID”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(125,76): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_EXPORT_DIRECTORY”
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(140,54): warning C4311: “类型强制转换”: 从“const PVOID”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(140,54): warning C4302: “类型强制转换”: 从“const PVOID”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(140,73): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_BASE_RELOCATION”
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(155,57): warning C4311: “类型强制转换”: 从“const PVOID”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(155,57): warning C4302: “类型强制转换”: 从“const PVOID”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(155,74): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_RESOURCE_DIRECTORY”
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(214,40): error C2664: “errno_t fopen_s(FILE **,const char *,const char *)”: 无法将参数 2 从“LPTSTR”转换为“const char *”
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(214,17): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\stdio.h(102,34): message : 参见“fopen_s”的声明
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(251,70): warning C4311: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(251,70): warning C4302: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(251,93): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_NT_HEADERS”
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(252,72): warning C4311: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(252,72): warning C4302: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(252,99): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_FILE_HEADER”
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(253,87): warning C4311: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(253,87): warning C4302: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(255,48): warning C4311: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(255,48): warning C4302: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(255,82): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“PIMAGE_SECTION_HEADER”
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(269,42): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(269,42): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(269,77): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“LPVOID”
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(270,32): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(270,32): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(270,69): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“LPVOID”
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(281,70): warning C4311: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(281,70): warning C4302: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(281,93): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_NT_HEADERS”
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(282,72): warning C4311: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(282,72): warning C4302: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(282,99): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_FILE_HEADER”
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(283,87): warning C4311: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(283,87): warning C4302: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(285,48): warning C4311: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(285,48): warning C4302: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(285,82): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“PIMAGE_SECTION_HEADER”
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(304,40): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(304,40): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(304,77): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“LPVOID”
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(305,33): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(305,33): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(305,68): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“LPVOID”
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(321,53): warning C4267: “初始化”: 从“size_t”转换到“DWORD”，可能丢失数据
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(315,7): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(337,70): warning C4311: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(337,70): warning C4302: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(337,93): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_NT_HEADERS”
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(338,72): warning C4311: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(338,72): warning C4302: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(338,99): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_FILE_HEADER”
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(339,87): warning C4311: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(339,87): warning C4302: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(341,48): warning C4311: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(341,48): warning C4302: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(341,82): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“PIMAGE_SECTION_HEADER”
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(343,43): warning C4311: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(343,43): warning C4302: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(344,33): warning C4311: “类型强制转换”: 从“PIMAGE_NT_HEADERS”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(344,33): warning C4302: “类型强制转换”: 从“PIMAGE_NT_HEADERS”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(344,46): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(344,46): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(373,70): warning C4311: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(373,70): warning C4302: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(373,93): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_NT_HEADERS”
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(374,72): warning C4311: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(374,72): warning C4302: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(374,99): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_FILE_HEADER”
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(375,87): warning C4311: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(375,87): warning C4302: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(377,48): warning C4311: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(377,48): warning C4302: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(377,82): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“PIMAGE_SECTION_HEADER”
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(385,5): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(385,5): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(385,87): warning C4311: “类型强制转换”: 从“PIMAGE_SECTION_HEADER”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(385,87): warning C4302: “类型强制转换”: 从“PIMAGE_SECTION_HEADER”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(406,54): warning C4311: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(406,54): warning C4302: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(406,77): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_NT_HEADERS”
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(407,55): warning C4311: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(407,55): warning C4302: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(407,82): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_FILE_HEADER”
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(408,64): warning C4311: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(408,64): warning C4302: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(409,66): warning C4311: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(409,66): warning C4302: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(409,100): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“PIMAGE_SECTION_HEADER”
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(434,41): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(434,41): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(434,60): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“LPVOID”
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(438,52): warning C4311: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(438,52): warning C4302: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(438,75): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_NT_HEADERS”
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(439,53): warning C4311: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(439,53): warning C4302: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(439,80): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_FILE_HEADER”
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(440,62): warning C4311: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(440,62): warning C4302: “类型强制转换”: 从“PIMAGE_FILE_HEADER”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(441,64): warning C4311: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”的指针截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(441,64): warning C4302: “类型强制转换”: 从“PIMAGE_OPTIONAL_HEADER32”到“DWORD”截断
+D:\sources\repos\PETOOL\PE-\PETOOL\PETOOL.cpp(441,98): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“PIMAGE_SECTION_HEADER”
+  正在生成代码...

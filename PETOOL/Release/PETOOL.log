@@ -1,0 +1,221 @@
+﻿  Dialog_Detail.cpp
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(39,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(283): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(40,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(288): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(284): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(285): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(286): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(287): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(289): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(282): message : 参见“RT_MANIFEST”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1642,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11058): message : 参见“IDI_APPLICATION”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1645,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11059): message : 参见“IDI_HAND”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1648,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11060): message : 参见“IDI_QUESTION”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1651,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11061): message : 参见“IDI_EXCLAMATION”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1654,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11062): message : 参见“IDI_ASTERISK”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1656,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11064): message : 参见“IDI_WINLOGO”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1658,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11067): message : 参见“IDI_SHIELD”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Detail.cpp(47,55): error C2664: “size_t wcslen(const wchar_t *)”: 无法将参数 1 从“LPSTR”转换为“const wchar_t *”
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Detail.cpp(47,52): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(132,25): message : 参见“wcslen”的声明
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Detail.cpp(154,43): error C2664: “BOOL SetWindowTextW(HWND,LPCWSTR)”: 无法将参数 2 从“LPCSTR”转换为“LPCWSTR”
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Detail.cpp(154,37): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(8910,1): message : 参见“SetWindowTextW”的声明
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Detail.cpp(247,42): error C2664: “BOOL SetWindowTextW(HWND,LPCWSTR)”: 无法将参数 2 从“LPSTR”转换为“LPCWSTR”
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Detail.cpp(247,36): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(8910,1): message : 参见“SetWindowTextW”的声明
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Detail.cpp(275,42): error C2664: “BOOL SetWindowTextW(HWND,LPCWSTR)”: 无法将参数 2 从“LPSTR”转换为“LPCWSTR”
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Detail.cpp(275,36): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(8910,1): message : 参见“SetWindowTextW”的声明
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Detail.cpp(327,42): error C2664: “BOOL SetWindowTextW(HWND,LPCWSTR)”: 无法将参数 2 从“LPSTR”转换为“LPCWSTR”
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Detail.cpp(327,36): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(8910,1): message : 参见“SetWindowTextW”的声明
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Detail.cpp(389,42): error C2664: “BOOL SetWindowTextW(HWND,LPCWSTR)”: 无法将参数 2 从“LPSTR”转换为“LPCWSTR”
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Detail.cpp(389,36): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(8910,1): message : 参见“SetWindowTextW”的声明
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Detail.cpp(418,42): error C2664: “BOOL SetWindowTextW(HWND,LPCWSTR)”: 无法将参数 2 从“LPSTR”转换为“LPCWSTR”
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Detail.cpp(418,36): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(8910,1): message : 参见“SetWindowTextW”的声明
+  Dialog_Directory.cpp
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(39,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(283): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(40,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(288): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(284): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(285): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(286): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(287): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(289): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(282): message : 参见“RT_MANIFEST”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1642,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11058): message : 参见“IDI_APPLICATION”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1645,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11059): message : 参见“IDI_HAND”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1648,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11060): message : 参见“IDI_QUESTION”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1651,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11061): message : 参见“IDI_EXCLAMATION”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1654,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11062): message : 参见“IDI_ASTERISK”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1656,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11064): message : 参见“IDI_WINLOGO”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1658,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11067): message : 参见“IDI_SHIELD”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Directory.cpp(61,10): warning C4101: “hwndEditSize”: 未引用的局部变量
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Directory.cpp(60,10): warning C4101: “hwndEditRva”: 未引用的局部变量
+  Dialog_Main.cpp
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(39,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(283): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(40,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(288): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(284): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(285): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(286): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(287): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(289): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(282): message : 参见“RT_MANIFEST”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1642,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11058): message : 参见“IDI_APPLICATION”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1645,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11059): message : 参见“IDI_HAND”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1648,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11060): message : 参见“IDI_QUESTION”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1651,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11061): message : 参见“IDI_EXCLAMATION”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1654,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11062): message : 参见“IDI_ASTERISK”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1656,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11064): message : 参见“IDI_WINLOGO”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1658,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11067): message : 参见“IDI_SHIELD”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Main.cpp(118,39): error C2440: “=”: 无法从“LPSTR”转换为“LPWSTR”
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Main.cpp(118,25): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Main.cpp(125,36): error C2440: “=”: 无法从“LPSTR”转换为“LPWSTR”
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Main.cpp(125,25): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Main.cpp(132,45): error C2440: “=”: 无法从“LPSTR”转换为“LPWSTR”
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Main.cpp(132,25): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Main.cpp(137,45): error C2440: “=”: 无法从“LPSTR”转换为“LPWSTR”
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Main.cpp(137,25): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Main.cpp(163,45): error C2440: “=”: 无法从“LPSTR”转换为“LPWSTR”
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Main.cpp(163,25): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Main.cpp(169,45): error C2440: “=”: 无法从“LPSTR”转换为“LPWSTR”
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Main.cpp(169,25): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Main.cpp(208,36): error C2065: “Lpe32”: 未声明的标识符
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Main.cpp(214,62): error C2664: “errno_t _itoa_s(int,char *,size_t,int)”: 无法将参数 2 从“LPWSTR”转换为“char *”
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Main.cpp(214,46): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(626,26): message : 参见“_itoa_s”的声明
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Main.cpp(266,29): error C2664: “int atoi(const char *)”: 无法将参数 1 从“TCHAR [32]”转换为“const char *”
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Main.cpp(266,24): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(451,62): message : 参见“atoi”的声明
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Main.cpp(283,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Main.cpp(379,19): error C2065: “LstOpenFile”: 未声明的标识符
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Main.cpp(379,66): error C2660: “MessageBoxW”: 函数不接受 3 个参数
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(9161,1): message : 参见“MessageBoxW”的声明
+  Dialog_PE.cpp
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(39,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(283): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(40,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(288): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(284): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(285): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(286): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(287): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(289): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(282): message : 参见“RT_MANIFEST”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1642,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11058): message : 参见“IDI_APPLICATION”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1645,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11059): message : 参见“IDI_HAND”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1648,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11060): message : 参见“IDI_QUESTION”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1651,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11061): message : 参见“IDI_EXCLAMATION”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1654,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11062): message : 参见“IDI_ASTERISK”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1656,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11064): message : 参见“IDI_WINLOGO”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1658,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11067): message : 参见“IDI_SHIELD”的前一个定义
+  Dialog_Section.cpp
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(39,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(283): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(40,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(288): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(284): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(285): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(286): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(287): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(289): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(282): message : 参见“RT_MANIFEST”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1642,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11058): message : 参见“IDI_APPLICATION”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1645,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11059): message : 参见“IDI_HAND”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1648,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11060): message : 参见“IDI_QUESTION”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1651,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11061): message : 参见“IDI_EXCLAMATION”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1654,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11062): message : 参见“IDI_ASTERISK”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1656,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11064): message : 参见“IDI_WINLOGO”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Resource.h(1658,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11067): message : 参见“IDI_SHIELD”的前一个定义
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Section.cpp(18,39): error C2440: “=”: 无法从“LPSTR”转换为“LPWSTR”
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Section.cpp(18,25): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Section.cpp(23,45): error C2440: “=”: 无法从“LPSTR”转换为“LPWSTR”
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Section.cpp(23,25): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Section.cpp(28,45): error C2440: “=”: 无法从“LPSTR”转换为“LPWSTR”
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Section.cpp(28,25): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Section.cpp(33,45): error C2440: “=”: 无法从“LPSTR”转换为“LPWSTR”
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Section.cpp(33,25): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Section.cpp(38,45): error C2440: “=”: 无法从“LPSTR”转换为“LPWSTR”
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Section.cpp(38,25): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Section.cpp(43,45): error C2440: “=”: 无法从“LPSTR”转换为“LPWSTR”
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Section.cpp(43,25): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Section.cpp(49,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Section.cpp(70,36): error C2440: “=”: 无法从“char [16]”转换为“LPWSTR”
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Section.cpp(70,29): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Users\leehung\source\repos\PETOOL\PETOOL\Dialog_Section.cpp(129,9): warning C4065: switch 语句包含“default”但是未包含“case”标签
+  PETOOL.cpp
+C:\Users\leehung\source\repos\PETOOL\PETOOL\PETOOL.cpp(214,40): error C2664: “errno_t fopen_s(FILE **,const char *,const char *)”: 无法将参数 2 从“LPTSTR”转换为“const char *”
+C:\Users\leehung\source\repos\PETOOL\PETOOL\PETOOL.cpp(214,17): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(102,34): message : 参见“fopen_s”的声明
